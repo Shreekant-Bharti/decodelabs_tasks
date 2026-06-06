@@ -1,0 +1,10 @@
+1. Highest revenue product: Tablet (65814.56)
+2. Best payment method (by revenue): Online (92430.49)
+3. Best referral source: Instagram (91819.76)
+4. Revenue trend over period: increasing (from 17951.68 to 18084.47)
+5. Quantity trend over period: decreasing (from 146 to 146)
+6. Top 3 products contribute 192782.49 total revenue; consider promotional focus.
+7. Payment method share: 21.6% from top method — ensure smooth UX for this method.
+8. Top referral sources: Instagram, Email, Facebook — consider allocating ad spend accordingly.
+9. Revenue vs Quantity correlation: 0.01 — review pricing or bundle strategies.
+10. Columns with missing values: couponcode — clean or impute before modeling.
